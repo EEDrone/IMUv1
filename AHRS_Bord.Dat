@@ -1,0 +1,19 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~AHRS_Bord.PrjPCB|ReportField=ProjectFullPath~E:\PCB_Project\AHRS - 副本\AHRS_Bord.PrjPCB|ReportField=Title~Bill of Materials For Project [AHRS_Bord.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~33|ReportField=ReportTime~21:49:38|ReportField=ReportDate~2017/1/24|ReportField=ReportDateTime~2017/1/24 21:49:38|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/1/24|ReportField=CurrentTime~21:49:25|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\PCB_Project\AHRS - 副本\AHRS_Sch.SchDoc|ReportField=DocumentName~AHRS_Sch.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2016/12/28|ReportField=Organization~|ReportField=ProjectName~AHRS_Bord.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~AHRS_Bord.PrjPCB|ReportField=DataSourceFullPath~E:\PCB_Project\AHRS - 副本\AHRS_Bord.PrjPCB
+10nF/6.3v|Capacitence|C1|C_0603|Capacitence|1
+100nF/6.3v|Capacitence|C2, C4, C5, C6, C8, C10, C11|C_0603|Capacitence|7
+2.2uF/6.3v|Capacitence|C3|C_0603|Capacitence|1
+220nF/6.3v|Capacitence|C7|C_0603|Capacitence|1
+10uF/6.3v|Capacitence|C9|C_0603|Capacitence|1
+22uF/6.3v|Capacitence|C12|C_0805|Capacitence|1
+1uF/6.3v|Capacitence|C13, C14|C_0603|Capacitence|2
+FPC/FFP|Connector|J1|FPC/FFP|FPC/FFP|1
+AO3420A|MOSFET|Q1|SOT-23|AO3420A|1
+11R|Resistence|R1|R_2512|Resistence|1
+50k|Resistence|R2|R_0603|Resistence|1
+100R|Resistence|R3|R_0603|Resistence|1
+||TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9|Test_Point|Testpoint|9
+ICM20602|IMU|U1|LGA-16|ICM20602|1
+LSM6DSM|IMU|U2|LGA-14L|LSM6DSM|1
+LSM303D|Accelerometer & Compass|U3|LGA-16|LSM303D|1
+LPS22HB|Barometer|U4|HLGA-10L|LPS22HB|1
+XC6206|LDO|U5|SOT-23|XC6206P332|1

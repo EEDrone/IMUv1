@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=J1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=J1-14
+Added Pin To Net: NetName=NetC1_2 Pin=J1-1
+Added Pin To Net: NetName=NetC1_1 Pin=J1-14
+Change Net Name : Old Net Name=NetC1_1 New Net Name=GND
+Change Net Name : Old Net Name=NetC1_2 New Net Name=3V3
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=PWM
+Change Net Name : Old Net Name=NetJ1_4 New Net Name=LPS_CS
+Change Net Name : Old Net Name=NetJ1_5 New Net Name=303D_CS
+Change Net Name : Old Net Name=NetJ1_6 New Net Name=6DSM_CS
+Change Net Name : Old Net Name=NetJ1_7 New Net Name=ICM_CS
+Change Net Name : Old Net Name=NetJ1_8 New Net Name=MOSI
+Change Net Name : Old Net Name=NetJ1_9 New Net Name=SCK
+Change Net Name : Old Net Name=NetJ1_11 New Net Name=MISO
+Change Net Name : Old Net Name=NetJ1_12 New Net Name=6DSM_INT
